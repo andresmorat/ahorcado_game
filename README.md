@@ -1,7 +1,7 @@
 # ahorcado_game
 Proyecto Juego Ahorcado - PHP, JS, CSS y HTML 
 
-📦 SCRIPT PARA CREAR LA BASE DE DATOS CON LAS CREDENCIALES DE EJEMPLO 📦
+📦 SCRIPT PARA CREAR LA BASE DE DATOS CON LAS CREDENCIALES DE EJEMPLO (Copiar y pegar en consola MySql) 📦
 
 -- Crear la base de datos si no existe
 
